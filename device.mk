@@ -281,7 +281,8 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    Snap
+    Snap \
+    GCam
 
 # IPv6
 PRODUCT_PACKAGES += \
